@@ -1,0 +1,12 @@
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/obj/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.csprojAssemblyReference.cache
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/obj/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.csproj.CoreCompileInputs.cache
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/obj/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.AssemblyInfoInputs.cache
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/obj/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.AssemblyInfo.cs
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/bin/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.deps.json
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/bin/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.runtimeconfig.json
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/bin/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.runtimeconfig.dev.json
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/bin/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.dll
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/bin/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.pdb
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/obj/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.dll
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/obj/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.pdb
+/Users/vinhdoan/challenges/Becoming-a-dotnet-developer-course/dotnet-DinerMax3000Console/obj/Debug/netcoreapp3.1/dotnet-DinerMax3000Console.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dotnet-DinerMax3000Console/1.0.0": {
+        "runtime": {
+          "dotnet-DinerMax3000Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-DinerMax3000Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
